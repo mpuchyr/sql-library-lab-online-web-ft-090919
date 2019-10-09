@@ -32,5 +32,5 @@ CREATE TABLE characters (
 );
 
 CREATE TABLE character_books (
-  id PRIMARY KEY
+  id INTEGER PRIMARY KEY
 );
