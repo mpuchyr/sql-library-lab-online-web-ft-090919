@@ -27,3 +27,8 @@ VALUES ("urban"),
 INSERT INTO authors (name)
 VALUES ("Jim Butcher"),
   ("George R. R. Martin");
+
+
+INSERT INTO character_books (book_id, character_id)
+VALUES (1, 1),
+  ()
