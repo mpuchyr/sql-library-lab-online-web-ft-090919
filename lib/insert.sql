@@ -15,4 +15,6 @@ VALUES ("Harry Dresden", "Hell's Bells", "human", 1),
   ("Bob the Skull", "Oh Harry", "spirit", 1),
   ("Michael Carpenter", "In the name of God", "human", 1),
   ("Bianca", "Revenge is lik sex...", "vampire", 1),
-  ()
+  ("Ned Stark", "Winter is coming", "human", 2),
+  ("Tyrion Lannister", "A Lannister always pays his debts", "human", 2)
+  ("Ygritte", "You know nothing, Jon Snow", "human", 2),
