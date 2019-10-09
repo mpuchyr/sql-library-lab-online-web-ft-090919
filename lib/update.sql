@@ -4,4 +4,4 @@ SELECT books.title, books.year
 FROM books
 INNER JOIN series
 ON books.series_id = series.id
-WHERE series.id = 1;
+WHERE books.series_id = 1;
