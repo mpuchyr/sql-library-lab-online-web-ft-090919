@@ -19,5 +19,3 @@ VALUES ("Harry Dresden", "Hell's Bells", "human", 1),
   ("Tyrion Lannister", "A Lannister always pays his debts", "human", 2)
   ("Ygritte", "You know nothing, Jon Snow", "human", 2),
   ("Arya Stark", "Not today", "human", 2);
-
-
