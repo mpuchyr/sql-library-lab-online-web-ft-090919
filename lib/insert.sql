@@ -1,6 +1,6 @@
-INSERT INTO series (title, author, subgenre_id, author_id)
-VALUES ("The Dresden Files", "Jim Butcher", 1, 1),
-  ("A Song of Ice and Fire", "George R. R. Martin", 2, 2);
+INSERT INTO series (title, subgenre_id, author_id)
+VALUES ("The Dresden Files", 1, 1),
+  ("A Song of Ice and Fire", 2, 2);
 
 INSERT INTO books (title, year, series_id)
 VALUES ("Storm Front", 2000, 1),
