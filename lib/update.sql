@@ -3,5 +3,4 @@ UPDATE characters SET species = "Martian" WHERE id = 8;
 SELECT books.title, books.year
 FROM books
 INNER JOIN series
-ON books.series_id = series.id
-WHERE books.series_id = 1;
+ON books.series_id = series.id;
