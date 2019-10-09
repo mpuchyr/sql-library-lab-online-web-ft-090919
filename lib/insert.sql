@@ -23,3 +23,7 @@ VALUES ("Harry Dresden", "Hell's Bells", "human", 1),
 INSERT INTO subgenres (name)
 VALUES ("urban"),
   ("medieval");
+
+INSERT INTO authors (name)
+VALUES ("Jim Butcher"),
+  ("George R. R. Martin");
