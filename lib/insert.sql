@@ -30,4 +30,6 @@ VALUES ("Jim Butcher"),
 
 
 INSERT INTO character_books (book_id, character_id)
-VALUES (1, 1);
+VALUES (1, 1),
+  (2, 1),
+  (3, 1);
