@@ -40,7 +40,7 @@ def select_series_title_with_most_human_characters
   ON series.author_id = authors.id
   JOIN characters
   ON authors.id = characters.author_id
-  GROUP BY COUNT(characters.species);"
+  GROUP BY characters.species;"
 end
 
 def select_character_names_and_number_of_books_they_are_in
