@@ -5,5 +5,3 @@ CREATE TABLE series (
   subgenre TEXT,
   author_id INTEGER
 );
-
-CREATE TABLE 
