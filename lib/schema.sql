@@ -29,4 +29,8 @@ CREATE TABLE characters (
   motto TEXT,
   species TEXT,
   author_id INTEGER
-)
+);
+
+CREATE TABLE character_books (
+  id PRIMARY KEY
+);
